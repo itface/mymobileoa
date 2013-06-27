@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">firstAd</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="string_login_userTip">用户名</string>
+    <string name="string_login_psdTip">密码</string>
+    
+    <string name="string_login_alertTitle">网络连接超时 </string>
+    <string name="string_login_alertMsg">无法连接到网络,请检查网络配置</string>
+    <string name="string_login_settingNet">网络设置</string>
+    <string name="string_login_exit">退出程序</string>
+    
+    <string name="string_server_ip">设置服务器IP</string>
+</resources>
